@@ -8,6 +8,6 @@ Using CNN's and Transfer Learning to detect which xrays show pneumonia. Below is
 
 
 ## To-do
-* Rebuild using Pickle to save model runs
+* Finalize and debug model/history pulldown from GitHub into notebook
 * Rewrite markdown to fit
 * Write a better README
