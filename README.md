@@ -7,7 +7,3 @@ Pneumonia kills! This project is mainly a demonstration of a variety of CNN tech
 Below is a labeled sample of the X-rays that are being classified.
 
 ![X-Rays of normal and pneumonia patients](https://github.com/JosiahBeynon/detect-pneumonia-xray/raw/main/pnuemonia_xray.png)
-
-
-## To-do
-* Finalize and spell check markdown
